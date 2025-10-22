@@ -1,3 +1,7 @@
+1. I used command to generate it:
+npx @angular/cli@15 new klokov
+
+
 # Klokov
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
